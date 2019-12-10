@@ -19,10 +19,10 @@ The goals / steps of this project are the following:
 
 [image1]: ./test_images/test3.jpg "Actual Image"
 [image2]: ./output_images/Project_Video_Outputs/Undistorted_test1.jpg "Undistorted"
-[image3]: ./output_images/Project_Video_Outputs/Undistorted_test1.jpg "Thresholded Binary Example"
-[image4]: ./output_images/Project_Video_Outputs/Undistorted_test1.jpg "Warp Example"
-[image5]: ./output_images/Project_Video_Outputs/Undistorted_test1.jpg "Lanes Only Visual"
-[image6]: ./output_images/Project_Video_Outputs/Undistorted_test1.jpg "Output Image"
+[image3]: ./output_images/Project_Video_Outputs/Thresholded_Binary_test1.jpg "Thresholded Binary Example"
+[image4]: ./output_images/Project_Video_Outputs/Warped_image_test1.jpg "Warp Example"
+[image5]: ./output_images/Project_Video_Outputs/LanesOnly_image_test1.jpg "Lanes Only Visual"
+[image6]: ./output_images/Project_Video_Outputs/LaneDrawnImage_test1.jpg "Output Image"
 [image7]: ./camera_cal/calibration2.jpg "Distorted Chessboard Image"
 [image8]: ./output_images/ChessBoard_Undistorted_Outputs/chessboard_undist2.jpg "Undistorted Chessboard Image"
 
